@@ -10,7 +10,7 @@
     "react-addons-css-transition-group": "^15.6.2",
     "react-dom": "^16.8.0-alpha.1",
     "react-mdl": "^1.11.0",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^7.5.2",
     "react-scripts": "2.0.4"
   },
   "scripts": {
